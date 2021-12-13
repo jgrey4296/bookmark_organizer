@@ -13,7 +13,7 @@ future==0.18.2
 idna==2.9
 joblib==0.14.1
 kiwisolver==1.2.0
-lxml==4.5.0
+lxml==4.6.5
 matplotlib==3.3.2
 mkl-fft==1.0.15
 mkl-service==2.3.0
