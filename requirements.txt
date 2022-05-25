@@ -38,7 +38,7 @@ pip==21.2.4
 platformdirs==2.4.0
 pycparser==2.21
 pyflakes==2.4.0
-PyJWT==2.3.0
+PyJWT==2.4.0
 pylint==2.12.2
 pyOpenSSL==22.0.0
 pypandoc==1.6.3
