@@ -28,5 +28,5 @@ setuptools==58.0.4
 toml==0.10.2
 tomli==1.2.2
 urllib3==1.26.8
-wheel==0.37.1
+wheel==0.38.1
 zipp==3.7.0
