@@ -14,7 +14,7 @@ numpy==1.21.2
 oauthlib==3.1.0
 packaging==21.3
 pdfrw==0.4
-Pillow==9.0.1
+Pillow==9.3.0
 pip==21.2.4
 pypandoc==1.6.3
 pyparsing==3.0.4
